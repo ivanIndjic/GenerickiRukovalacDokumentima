@@ -1,0 +1,184 @@
+yesOption = Da
+
+openOption = Otvori
+
+noOption = Ne
+
+cancelOption = Odustani
+
+okOption = U redu
+
+mustName = Morate ukucati ime! 
+
+Change = Izmeniti
+
+notWorkspace = Selektovan direktorijum nije GeRuDok workspace
+
+selectWorkspace = Morate selektovati neki workspace
+
+changeWorkspace = Izmena radnog prostora
+
+exit = Izlaz
+
+helpAction = Trenutno se nalazite u stablu za prikaz kolekcija.\n Postoje razne vrste kolekcija u stablu. Najopstija"
+			+ "vrsta kolekcija jeste Workspace.\nOn se sastoji od projekata koji se u njega mogu dodati rucno ili se mogu ucitati iz"
+			+ "fajla.\nSvaki projekat je sacinjen od dokumenata koji se isto mogu dodati na navedena dva nacina."
+			+ "\nDokument se sastoji od stranica a stranice od slotova.\nKada zelite da dodate novu kolekciju, samo selektujte njenog"
+			+ "roditelja u stablu i kliknite na zeljenu ikonicu iz toolbara ili zeljenu stavku iz menija."
+			+ "\nU desnom delu ce Vam se prikazati sadrzaj selektovane kolekcije. Izmenu i brisanje kolekcija mozete odraditi isto kao i dodavanje.
+			
+freeDocs = Slobodni dokumenti
+
+lastDocs = Poslednje kori\u0161\u0107eni dokumenti
+
+mostDocs = Naj\u010De\u0161\u0107e kori\u0161\u0107eni dokumenti
+
+newDoc = Novi dokument
+
+addDoc = Dodaj novi dokument u projekat
+
+newElement = Novi element
+
+addElement = Dodaj novi element u slot		
+
+newSlots = Nova kolekcija slotova
+
+addSlots = Dodaj novu kolekciju slotova stranici
+
+newPage = Nova stranica
+
+addPage = Dodaj novu stranicu u dokument
+
+newProject = Novi projekat
+
+addProject = Dodaj novi projekat u radni prostor
+
+open = U\u010Ditaj
+
+warningFile = Nije pronaÄ\u2018en fajl! 
+
+warningDocument = Dokument nije saÄ\uFFFDuvan!
+
+warning = Upozorenje!
+
+redo = Ponovi jedan korak
+
+remove = Obri\u0161i
+
+save = Sa\u010Duvaj
+
+info = Informacija
+
+success = Uspe\u0161no!
+
+docEx = Dokument nije saÄ\uFFFDuvan! Podrazumevano ime dokumenta je ime iz aplikacije
+
+share = Podeli
+
+docShared = U tom projektu je dokument vec deljen!
+
+pageShared = U tom dokumentu je stranica vec deljena!
+
+undo = Vrati jedan korak
+
+show = Prika\u017Ei
+
+file = Fajl
+
+edit = Izmena
+
+tools = Alati
+
+help = Pomo\u0107
+
+viewChangeName = PromenaImena
+
+name = Ime:
+
+pickWorkspace = Izabrati workspace:
+
+newWorkspace = Unesite novi workspace: 
+
+create = Napravi
+
+browse = Izaberi
+
+viewDocument = Dokument
+
+viewDocumentName = Ime dokumenta:
+
+add= Dodaj
+
+element = Element
+
+content = Sadr\u017Eaj
+
+freeNowDocs = Trenutno slobodni dokumenti:
+
+uvezivanjeProjekti = Uvezivanje u projekte: 
+
+picDocs = Izabrati dokumente: 
+
+pickedDocs = Izabrani dokumenti: 
+
+nijedan = Nijedan
+
+picDocsLink = Izabrati projekat gde ih treba uvezati:
+
+lastUsedView = PoslednjeKoriscen
+
+lastUsedViewDocs = Poslednje kori\u0161\u0107eni dokumenti
+
+collectionSlots = Kolekcija slotova
+
+numSlots = Broj slotova:
+
+mustNum= Broj slotova mora biti broj!
+
+mostUsedView = NajcesceKoriscen
+
+mostUsedViewDocs = Naj\u010De\u0161\u0107e kori\u0161\u0107eni dokumenti
+
+noDocs = Nema dokumenata!
+
+page = Stranica
+
+namePage = Ime stranice:
+
+lengthPage = Du\u017Eina stranice:
+
+slotsPage = Broj slotova stranice:
+
+positionPage = Pozicija u dokumentu:
+
+nacin = Na\u010Din ubacivanja slotova: 
+
+horizontalno = Horizontalno
+
+vertikalno = Vertikalno
+
+cantZero = Du\u017Eina, br slotova i pozicija ne smeju biti 0!
+
+numPinD = Broj stranica u ovom dokumentu je  
+
+biggest = najve\u0107a pozicija gde mo\u017Eete postaviti novu stranicu je: 
+
+moraBr = Du\u017Eina, br slotova i pozicija moraju biti broj!
+
+project = Projekat
+
+nameProject = Ime projekta:
+
+recentlyUsed = Nedavno korisceni dokumenti: 
+
+five = Poslednjih 5 koriscenih dokumenata: 
+
+shareIn = Podeliti u:
+
+alreadyCopy = Ta kolekcija je vec kopija!"
+
+cantShare = Ne mo\u017Ee se podeliti ta kolekcija!	
+
+
+
+
